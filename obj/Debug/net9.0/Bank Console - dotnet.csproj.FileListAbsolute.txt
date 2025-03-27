@@ -1,0 +1,14 @@
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\bin\Debug\net9.0\Bank Console - dotnet.exe
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\bin\Debug\net9.0\Bank Console - dotnet.deps.json
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\bin\Debug\net9.0\Bank Console - dotnet.runtimeconfig.json
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\bin\Debug\net9.0\Bank Console - dotnet.dll
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\bin\Debug\net9.0\Bank Console - dotnet.pdb
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.AssemblyInfoInputs.cache
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.AssemblyInfo.cs
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.csproj.CoreCompileInputs.cache
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.dll
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\refint\Bank Console - dotnet.dll
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.pdb
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\Bank Console - dotnet.genruntimeconfig.cache
+C:\Users\sanke\OneDrive\Documents\Personal\Nanthi\Bank Console - dotnet\obj\Debug\net9.0\ref\Bank Console - dotnet.dll
